@@ -4,7 +4,8 @@ I am passionate about coding and database management, with a keen interest in ta
 
 ## Education
 - **BS Information Technology**
-  New Era University, 2021-Present
+  New Era University,
+  2021-Present
 
 ## Certifications
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5ADEF1ADB382E9D15EFE29C5E284AF085064F2F5385C12585FF6F52E8C23AA30)
