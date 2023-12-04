@@ -8,9 +8,9 @@ I am passionate about coding and database management, with a keen interest in ta
 
 ## Certifications
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5ADEF1ADB382E9D15EFE29C5E284AF085064F2F5385C12585FF6F52E8C23AA30)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](Certification_Link_2)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](Certification_Link_3)
-- [SQL and Relational Databases 101](Certification_Link_4)
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B328B149B4FEB7CFB418589706F31A0B4A45E16F3779DFCFF96D2A0C04113D85)
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=136816DC38C3F205C05494F1226C1413DB3B139621D6426598F784F68887A6FE)
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/c96f9f75b59243368c80a33b1d23b657)
 
 ## Skill Sets
 - **Programming:** Java, Javascript
@@ -18,5 +18,4 @@ I am passionate about coding and database management, with a keen interest in ta
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Reach Me
-- **LinkedIn:** [LinkedIn Profile](LinkedIn_Profile_Link)
-- **Email:** juandelacruz@gmail.com
+- **Email:** jaspherpena@gmail.com
